@@ -1,0 +1,8 @@
+{
+    "type": "origins:effect_immunity",
+    "name": "Poison Immunity",
+    "description": "Your spider blood is immune to the venom of your kin.",
+    "effect": [
+        "minecraft:poison",
+    ]
+}

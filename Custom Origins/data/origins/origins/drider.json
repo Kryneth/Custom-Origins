@@ -1,0 +1,19 @@
+{
+	"powers": [
+		"origins:climbing",
+		"origins:master_of_webs",
+		"origins:venomous_bite",
+		"origins:carnivore",
+		"origins:fragile",
+		"origins:poison_immunity",
+		"origins:arthropod"
+	],
+	"icon": {
+		"item": "minecraft:spider_eye"
+	},
+	"order": 1,
+	"impact": 1
+        "name": "Drider",
+        "description": "Bitten by a radioactive spider, you gained superhuman powers, and became... a bitch."
+}
+}

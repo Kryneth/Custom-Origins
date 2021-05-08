@@ -1,0 +1,20 @@
+{
+	"powers": [
+		"origins:fall_immunity",
+		"origins:sprint_jump",
+		"origins:hotblooded",
+		"origins:nine_lives",
+		"origins:no_shield",
+		"origins:scare_creepers",
+		"origins:climbing",
+		"origins:cat_vision"
+	],
+	"icon": {
+		"item": "minecraft:barrier"
+	},
+	"order": 0,
+	"impact": 2
+        "name": "Opostle",
+        "description": "No more mewling. It's time to possum."
+}
+}
