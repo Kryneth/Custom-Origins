@@ -13,7 +13,7 @@
 		"item": "minecraft:barrier"
 	},
 	"order": 0,
-	"impact": 2
+	"impact": 2,
         "name": "Opostle",
         "description": "No more mewling. It's time to possum."
 }
